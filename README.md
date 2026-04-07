@@ -23,3 +23,4 @@ SmartStudy is an AI-powered study assistant that:
 ```bash
 pip install -r requirements.txt
 uvicorn app:app --reload
+Added a line
